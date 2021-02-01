@@ -59,3 +59,4 @@ for element in examples:
     print(f'Для анализа представлена строка: {element.text}')
     element.get_descriptive_output(element.get_date_info())
     print('-'*30)
+
