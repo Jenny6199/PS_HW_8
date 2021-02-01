@@ -24,3 +24,4 @@ except WarningZeroDivision as err:
 else:
     print('Программа продолжает работу как ни в чем не бывало :)')
 print('Завершение работы программы')
+
